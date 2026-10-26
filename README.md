@@ -6,7 +6,7 @@ Data & Software Engineer. Turning data chaos into boring, reliable systems.
 
 ## Projects
 
-- [Minos](https://minoshealth.pl) - explainable settlement intelligence for Polish hospital care: ICD-10/ICD-9 PL terminology, a deterministic JGP grouper with source-linked traces, and a public MCP server for agents.
+- [Minos](https://github.com/krzysztofbury/minos-health)- explainable settlement intelligence for Polish hospital care: ICD-10/ICD-9 PL terminology, a deterministic JGP grouper with source-linked traces, and a public MCP server for agents.
 - [librus-mcp](https://github.com/krzysztofbury/librus-mcp) - MCP server for the Librus Synergia school gradebook, for Claude, Codex and other AI assistants.
 - [librus-python-api](https://github.com/krzysztofbury/librus-python-api) - typed Python client for Librus Synergia, the library behind librus-mcp.
 - [llm-powerup](https://github.com/krzysztofbury/llm-powerup) - portable skills, hooks and prompts for Claude Code, Codex and OpenCode.
