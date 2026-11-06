@@ -9,7 +9,7 @@ Data & Software Engineer. Turning data chaos into boring, reliable systems.
 - [Minos](https://github.com/krzysztofbury/minos-health)- explainable settlement intelligence for Polish hospital care: ICD-10/ICD-9 PL terminology, a deterministic JGP grouper with source-linked traces, and a public MCP server for agents.
 - [librus-mcp](https://github.com/krzysztofbury/librus-mcp) - MCP server for the Librus Synergia school gradebook, for Claude, Codex and other AI assistants.
 - [librus-python-api](https://github.com/krzysztofbury/librus-python-api) - typed Python client for Librus Synergia, the library behind librus-mcp.
-- [llm-powerup](https://github.com/krzysztofbury/llm-powerup) - portable skills, hooks and prompts for Claude Code, Codex and OpenCode.
+- [skills](https://github.com/krzysztofbury/skills) - portable Agent Skills, hooks and base rules for Claude Code, Codex, OpenCode and Gemini CLI, with an installer that links in your own and third-party skills without copying them.
 - [virgil](https://github.com/krzysztofbury/virgil) - self-hosted life-tracking dashboard with a read-only REST API and an MCP server. FastAPI, SQLite, HTMX.
 - [zrozumsql](https://github.com/datacraze/zrozumsql) - files for ZrozumSQL, a free 169-lesson PostgreSQL course on YouTube (Polish, English subtitles).
 
